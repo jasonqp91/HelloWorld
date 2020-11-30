@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonqp91/HelloWorld.git"
+  },
+  "author": "Jaisom Quesada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonqp91/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/jasonqp91/HelloWorld#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
