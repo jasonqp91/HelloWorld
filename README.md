@@ -15,4 +15,5 @@ Finally, the code is free to used and the same one if containerized and deployed
 
 Please use the following ip to execute the docker deployed on aws.
 http://18.223.190.123:12000/
+
 http://18.223.190.123:12000/user
